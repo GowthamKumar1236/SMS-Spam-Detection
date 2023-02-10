@@ -11,4 +11,4 @@ The aim of this project is to develop an SMS spam filter to classify the message
 
 5) The final step involved fitting various Machine Learning classification models and tabulating the results to evaluate the best performing model. 
 
-6)The best performing model in our analysis was found to be with TF-IDF and Word2vec vectorization approaches using Support Vector Classifier Model.
+6) The best performing model in our analysis was found to be with TF-IDF and Word2vec vectorization approaches using Support Vector Classifier Model.
